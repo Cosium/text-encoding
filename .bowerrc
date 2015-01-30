@@ -1,0 +1,6 @@
+{
+  "directory": "bower_components",
+  "registry": "https://bower.cosium.com/",
+  "strict-ssl": true,
+  "analytics": false
+}
