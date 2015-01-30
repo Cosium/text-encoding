@@ -6,7 +6,7 @@
     "Joshua Bell <inexorabletash@gmail.com>"
   ],
   "description": "Polyfill for the Encoding Living Standard's API",
-  "main": [ "lib/encoding.js", "lib/encoding-indexes.js" ],
+  "main": [ "lib/encoding-indexes.js", "lib/encoding.js" ],
   "keywords": [
     "decoding",
     "encoding",
